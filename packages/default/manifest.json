@@ -1,5 +1,5 @@
 {"manifest": {
-    "name": "Default package",
+    "name": "Default",
     "author": "Wojtmic",
     "description": "Default package containing essentials commands, events and layouts. If deleted, shell will refuse to initialize."
 } }
