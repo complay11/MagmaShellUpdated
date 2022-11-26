@@ -1,0 +1,6 @@
+{"command": {
+    "name": "example",
+    "args": 0,
+    "description": "Example command",
+    "script": "default/commands/example.py"
+}}

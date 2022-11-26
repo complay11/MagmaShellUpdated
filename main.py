@@ -2,6 +2,13 @@ import multiprocessing
 import os
 import json
 
+class command():
+    def __init__(self, name, args, description, script):
+        self.name = name
+        self.args = args
+        self.description = description
+        self.script = script
+
 def loadPackages():
     rootdir = 'packages'
     for file in os.listdir(rootdir):
